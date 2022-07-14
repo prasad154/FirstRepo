@@ -1,2 +1,2 @@
 readme
-sample1
+sample2
